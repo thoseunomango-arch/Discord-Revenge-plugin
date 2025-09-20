@@ -1,0 +1,7 @@
+{
+  "name": "PluginSandbox",
+  "description": "A sandbox plugin to test loading other plugins.",
+  "author": "thoseunomango-arch",
+  "version": "1.0.0",
+  "main": "plugin_sandbox.js"
+}
